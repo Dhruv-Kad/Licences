@@ -1,3 +1,7 @@
-#+Title: Liscenses
+#+Title: Licenses
 
-Contains a bunch of open source Liscenses created for my own personal use. Anyone may use these as they please. 
+Contains a bunch of open source Licenses created for my own personal use. Anyone may use these as they please.
+
+* List
+1. Goku Solos License
+2. Harry Haller Solos License
