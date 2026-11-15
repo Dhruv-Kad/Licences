@@ -1,0 +1,3 @@
+#+Title: Liscenses
+
+Contains a bunch of open source Liscenses created for my own personal use. Anyone may use these as they please. 
